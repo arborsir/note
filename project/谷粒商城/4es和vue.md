@@ -23,7 +23,7 @@ console.log(b);
 
 
 
-![image-20220405165115901](.assets\4es和vue\image-20220405165115901.png)
+![image-20220405165115901](.assets/4es和vue/image-20220405165115901.png)
 
 
 
@@ -47,7 +47,7 @@ console.log(b);
 
 第二次声明b时报错：
 
-![image-20220405165414143](.assets\4es和vue\image-20220405165414143.png)
+![image-20220405165414143](.assets/4es和vue/image-20220405165414143.png)
 
 
 
@@ -63,7 +63,7 @@ let b = 2;
 
 到b的时候就报错了
 
-![image-20220405165649213](.assets\4es和vue\image-20220405165649213.png)
+![image-20220405165649213](.assets/4es和vue/image-20220405165649213.png)
 
 ### const
 
@@ -77,7 +77,7 @@ console.log(a);
 
 
 
-![image-20220405165810274](.assets\4es和vue\image-20220405165810274.png)	
+![image-20220405165810274](.assets/4es和vue/image-20220405165810274.png)	
 
 ## 解构表达式
 
@@ -181,7 +181,7 @@ console.log(str.includes('o')); // 是否包含子串
 
 输出结果：
 
-![image-20220405171334541](.assets\4es和vue\image-20220405171334541.png)
+![image-20220405171334541](.assets/4es和vue/image-20220405171334541.png)
 
 ### 字符串插入变量和表达式
 
@@ -199,7 +199,7 @@ console.log(ss);
 
 
 
-![image-20220405171822507](.assets\4es和vue\image-20220405171822507.png)
+![image-20220405171822507](.assets/4es和vue/image-20220405171822507.png)
 
 
 
@@ -361,7 +361,7 @@ Object.assign(target, source1, source2);
 console.log(target);
 ```
 
-![image-20220405180845752](.assets\4es和vue\image-20220405180845752.png)
+![image-20220405180845752](.assets/4es和vue/image-20220405180845752.png)
 
 ### 声明对象新写法
 
@@ -411,7 +411,7 @@ person.eat3("梨");
 
 
 
-![image-20220405181912560](.assets\4es和vue\image-20220405181912560.png)
+![image-20220405181912560](.assets/4es和vue/image-20220405181912560.png)
 
 ### 对象扩展运算符
 
@@ -445,7 +445,7 @@ person = {...name, ...age};
 console.log(person);
 ```
 
-![image-20220405182627698](.assets\4es和vue\image-20220405182627698.png)
+![image-20220405182627698](.assets/4es和vue/image-20220405182627698.png)
 
 ## 数组
 
@@ -502,7 +502,7 @@ console.log(arr2);
 
 可以得到结果：
 
-![image-20220405194053124](.assets\4es和vue\image-20220405194053124.png)
+![image-20220405194053124](.assets/4es和vue/image-20220405194053124.png)
 
 
 
@@ -518,7 +518,7 @@ let arr2 = arr.reduce((a, b) => {
 console.log(arr2);
 ```
 
-![image-20220405194331069](.assets\4es和vue\image-20220405194331069.png)
+![image-20220405194331069](.assets/4es和vue/image-20220405194331069.png)
 
 
 
@@ -602,7 +602,7 @@ console.log(arr2);
 
 5. 可以看到控制台的输出
 
-   ![image-20220405200939680](.assets\4es和vue\image-20220405200939680.png)
+   ![image-20220405200939680](.assets/4es和vue/image-20220405200939680.png)
 
 
 
@@ -780,7 +780,7 @@ npm init -y
 
 package.json文件表示，这个是使用npm管理的项目
 
-![image-20220406204104094](.assets\4es和vue\image-20220406204104094.png)
+![image-20220406204104094](.assets/4es和vue/image-20220406204104094.png)
 
 
 
@@ -848,13 +848,13 @@ npm i vue@2
 
 可以实时的将输入框中的值，放到h1标签中
 
-![image-20220406205705809](.assets\4es和vue\image-20220406205705809.png)
+![image-20220406205705809](.assets/4es和vue/image-20220406205705809.png)
 
 
 
 也可以直接在控制台修改变量的值：
 
-![image-20220406205952096](.assets\4es和vue\image-20220406205952096.png)
+![image-20220406205952096](.assets/4es和vue/image-20220406205952096.png)
 
 ### v-on 事件绑定
 
@@ -927,7 +927,7 @@ npm i vue@2
 
 语法提示插件
 
-![image-20220406211048531](.assets\4es和vue\image-20220406211048531.png)
+![image-20220406211048531](.assets/4es和vue/image-20220406211048531.png)
 
 
 
@@ -968,7 +968,7 @@ npm i vue@2
 
 
 
-![image-20220406220248903](.assets\4es和vue\image-20220406220248903.png)
+![image-20220406220248903](.assets/4es和vue/image-20220406220248903.png)
 
 ### 插值表达式
 
